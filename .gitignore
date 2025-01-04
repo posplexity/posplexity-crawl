@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# posplexity-crawl
+bin/
+data/staged/
+md_output/

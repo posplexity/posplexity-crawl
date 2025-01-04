@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "posplexity-crawl"
+version = "0.1.0"
+description = ""
+authors = ["chaewon-huh <cw.huh@postech.ac.kr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+playwright = "^1.49.1"
+crawl4ai = "^0.4.246"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
